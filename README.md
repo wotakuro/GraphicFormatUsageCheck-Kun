@@ -1,0 +1,1 @@
+# GraphicFormatUsageCheck-Kun
