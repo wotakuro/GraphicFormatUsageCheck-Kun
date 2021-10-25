@@ -1,6 +1,6 @@
 # GraphicFormatUsageCheck-Kun
 
-’[––ã‚Å‚Ç‚ÌGraphicsFormat‚ª‚Ç‚Ì‚æ‚¤‚É‘Î‰‚µ‚Ä‚¢‚é‚©ƒ`ƒFƒbƒN‚·‚éŒN
+ç«¯æœ«ä¸Šã§ã©ã®GraphicsFormatãŒã©ã®ã‚ˆã†ã«å¯¾å¿œã—ã¦ã„ã‚‹ã‹ãƒã‚§ãƒƒã‚¯ã™ã‚‹å›
 
 
-![ScreenShot](doc~/image.png "image")
+![ScreenShot](docs/Image.png "image")
