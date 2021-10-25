@@ -8,6 +8,8 @@ public class Check : MonoBehaviour
 {
     [SerializeField]
     private Text result;
+    [SerializeField]
+    private Text graphicInfo;
 
 
     [SerializeField]
@@ -44,6 +46,8 @@ public class Check : MonoBehaviour
 
     private void Awake()
     {
+        graphicInfo.text = SystemInfo.graphicsDeviceType.ToString() + "\n"+
+            SystemInfo.graphicsDeviceName + "("+SystemInfo.graphicsDeviceVersion +")";
         stringBuilder = new StringBuilder(512);
         InitDropDownMenu();
     }
